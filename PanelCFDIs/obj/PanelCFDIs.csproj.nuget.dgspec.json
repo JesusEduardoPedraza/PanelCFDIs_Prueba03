@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\ProyectoEden\\PanelCFDIs\\PanelCFDIs\\PanelCFDIs.csproj": {}
+    "C:\\Proyecto ASPNet Core\\Prueba03\\PanelCFDIs\\PanelCFDIs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\ProyectoEden\\PanelCFDIs\\PanelCFDIs\\PanelCFDIs.csproj": {
+    "C:\\Proyecto ASPNet Core\\Prueba03\\PanelCFDIs\\PanelCFDIs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\ProyectoEden\\PanelCFDIs\\PanelCFDIs\\PanelCFDIs.csproj",
+        "projectUniqueName": "C:\\Proyecto ASPNet Core\\Prueba03\\PanelCFDIs\\PanelCFDIs.csproj",
         "projectName": "PanelCFDIs",
-        "projectPath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\ProyectoEden\\PanelCFDIs\\PanelCFDIs\\PanelCFDIs.csproj",
-        "packagesPath": "C:\\Users\\PCLALO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCLALO\\Desktop\\VS .NET CORE MVC\\ProyectoEden\\PanelCFDIs\\PanelCFDIs\\obj\\",
+        "projectPath": "C:\\Proyecto ASPNet Core\\Prueba03\\PanelCFDIs\\PanelCFDIs.csproj",
+        "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto ASPNet Core\\Prueba03\\PanelCFDIs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PCLALO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,6 +9,7 @@ namespace PanelCFDIs.Models
 {
     public partial class Empresas
     {
+
         public int IdEmpresa { get; set; }
         public string Nombre { get; set; }
         public string Rfc { get; set; }
