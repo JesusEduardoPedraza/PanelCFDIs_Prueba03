@@ -26,7 +26,7 @@ namespace PanelCFDIs
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-
+            services.AddRazorPages();
             var connection = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<adapli_cfdiContext>(options => options.UseSqlServer(connection));
         }
